@@ -2,8 +2,6 @@
 
 Built with the Next.js 14 App Router, Postgres, TypeScript, Tailwind & Kinde Auth
 
-![Project Image](https://github.com/dr-dark-flames/casebobra-master/blob/master/public/thumbnail.png)
-
 ## Features
 
 - ✨ Complete shop built from scratch in Next.js 14
